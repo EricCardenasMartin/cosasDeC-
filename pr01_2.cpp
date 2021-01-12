@@ -8,5 +8,5 @@
 // 	printf("Altura? ");
 // 	scanf("%f", &a);
 
-// 	printf("El area de un triangulo con base %f y altura %f es %f", b, a, (a*b)/2);
+// 	printf("El area de un triangulo con base %f y altura %f es %f", b, a, (a*b)/2.0);
 // }
