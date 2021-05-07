@@ -1,15 +1,15 @@
-#include <iostream>
+// #include <iostream>
 
-int main() {
- int n = 0;
-	int r = 1;
+// int main() {
+//  int n = 0;
+// 	int r = 1;
 
-	printf("Introduce un numero: ");
-	scanf("%i", &n);
+// 	printf("Introduce un numero: ");
+// 	scanf("%i", &n);
 
-	for(int i = 1; i <= n; i++){
-		r *= i;
-	}
+// 	for(int i = 1; i <= n; i++){
+// 		r *= i;
+// 	}
 	
-	printf("%i", r);
-}
+// 	printf("%i", r);
+// }

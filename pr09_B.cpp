@@ -1,17 +1,17 @@
-#include <iostream>
+// #include <iostream>
 
-int main() {
-	int i = 1;
-	int n = 0;
-	int r = 0;
+// int main() {
+// 	int i = 1;
+// 	int n = 0;
+// 	int r = 0;
 
-	printf("Introduce un numero: ");
-	scanf("%i", &n);
+// 	printf("Introduce un numero: ");
+// 	scanf("%i", &n);
 
-	do{
-		r += i;
-		i++;
-	}while(i < n+1);
+// 	do{
+// 		r += i;
+// 		i++;
+// 	}while(i < n+1);
 
-	printf("%i", r);
-}
+// 	printf("%i", r);
+// }
